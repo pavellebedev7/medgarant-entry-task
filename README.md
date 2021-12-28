@@ -1,3 +1,3 @@
 # medgarant-entry-task
-![Example](/queue/0.png)
-![Example](/queue/1.png)
+![Example](/0.png)
+![Example](/1.png)
